@@ -1,0 +1,1001 @@
+id,make,model,price,year,color
+1,Audi,4000,$43577.87,1987,Red
+2,Toyota,4Runner,$91703.54,2012,Indigo
+3,Volkswagen,New Beetle,$22081.53,2008,Violet
+4,Oldsmobile,Intrigue,$48397.41,1998,Green
+5,Mercedes-Benz,E-Class,$80186.61,2006,Orange
+6,Suzuki,Equator,$33147.84,2012,Aquamarine
+7,Ford,Bronco II,$34569.02,1988,Pink
+8,MINI,Cooper Clubman,$61366.19,2011,Fuscia
+9,Buick,Coachbuilder,$20412.36,1990,Maroon
+10,Lexus,ES,$67821.89,2003,Yellow
+11,Ferrari,430 Scuderia,$77213.49,2008,Aquamarine
+12,Volvo,XC90,$60788.67,2013,Violet
+13,Toyota,Corolla,$80295.04,2006,Fuscia
+14,Infiniti,QX56,$40810.92,2012,Indigo
+15,Mazda,Millenia,$98636.70,2001,Teal
+16,Subaru,Leone,$83511.41,1986,Maroon
+17,Volkswagen,GTI,$58248.01,2005,Aquamarine
+18,Pontiac,GTO,$73563.80,2006,Maroon
+19,Land Rover,Discovery,$93363.10,2001,Maroon
+20,Chevrolet,G-Series 1500,$52235.03,1998,Red
+21,Toyota,Celica,$48941.63,1998,Fuscia
+22,Mercury,Cougar,$20850.04,1999,Violet
+23,Mercury,Sable,$45281.08,2003,Pink
+24,Volvo,940,$55786.49,1995,Blue
+25,Lincoln,LS,$47831.99,2003,Green
+26,Ford,Bronco,$35328.98,1990,Khaki
+27,Oldsmobile,Silhouette,$99502.52,1997,Fuscia
+28,Land Rover,LR3,$86424.66,2008,Goldenrod
+29,Honda,S2000,$38996.53,2004,Maroon
+30,Ford,Edge,$68444.27,2007,Aquamarine
+31,Mercedes-Benz,G-Class,$40598.14,2004,Maroon
+32,BMW,5 Series,$63364.04,2010,Mauv
+33,Acura,TL,$22241.76,2003,Mauv
+34,Chevrolet,G-Series G10,$57422.32,1995,Mauv
+35,Oldsmobile,Silhouette,$23819.21,2000,Indigo
+36,Land Rover,Range Rover,$40953.40,2011,Khaki
+37,Dodge,Neon,$55080.30,1999,Green
+38,Pontiac,Vibe,$64963.76,2009,Crimson
+39,Pontiac,Vibe,$76819.42,2003,Crimson
+40,GMC,Sierra 3500,$56066.31,2007,Crimson
+41,Mercedes-Benz,600SEC,$68373.90,1993,Orange
+42,Toyota,Corolla,$52777.60,1997,Fuscia
+43,Subaru,SVX,$70019.13,1996,Khaki
+44,Jeep,Wrangler,$38814.59,2000,Maroon
+45,Volvo,C70,$87469.52,2010,Indigo
+46,GMC,Sierra 2500,$92025.16,2003,Blue
+47,Pontiac,Trans Sport,$85414.80,1995,Red
+48,Ferrari,458 Italia,$76386.26,2012,Green
+49,Chevrolet,Silverado 3500,$90043.41,2008,Aquamarine
+50,Land Rover,Range Rover,$65502.49,2009,Fuscia
+51,Eagle,Summit,$47970.29,1994,Yellow
+52,Toyota,4Runner,$71215.67,1996,Fuscia
+53,Pontiac,Firebird,$70892.21,1967,Mauv
+54,Mazda,B-Series Plus,$90472.20,1995,Orange
+55,Mercury,Milan,$86140.59,2006,Puce
+56,Pontiac,Firefly,$55775.13,1984,Purple
+57,GMC,Sonoma,$65052.73,1997,Yellow
+58,Dodge,Ram Van B350,$59083.38,1992,Mauv
+59,Chevrolet,Sportvan G20,$74673.41,1995,Khaki
+60,Mitsubishi,Montero,$86307.12,2000,Yellow
+61,Ford,Explorer,$30938.10,1993,Goldenrod
+62,Mercedes-Benz,M-Class,$44009.78,2001,Maroon
+63,Toyota,Tundra,$89448.12,2005,Orange
+64,Land Rover,Discovery,$74112.08,2012,Purple
+65,GMC,Yukon,$70447.49,2004,Fuscia
+66,Subaru,Leone,$82195.76,1987,Fuscia
+67,Acura,TSX,$25293.67,2010,Fuscia
+68,Ford,Focus,$51976.37,2010,Blue
+69,Cadillac,Eldorado,$62847.40,1999,Violet
+70,Cadillac,STS,$24846.04,2007,Mauv
+71,Plymouth,Breeze,$40358.87,1998,Fuscia
+72,Toyota,Land Cruiser,$26569.04,2006,Goldenrod
+73,Toyota,4Runner,$22957.14,1993,Teal
+74,Saab,9-5,$41904.47,2001,Indigo
+75,Lincoln,Town Car,$32864.95,2002,Yellow
+76,Jeep,Grand Cherokee,$87467.13,1998,Teal
+77,Pontiac,G6,$92883.91,2005,Aquamarine
+78,Ford,Mustang,$51787.05,2008,Violet
+79,Saab,900,$56469.91,1986,Pink
+80,Chevrolet,Avalanche,$91208.62,2002,Aquamarine
+81,GMC,Sierra 2500,$52776.08,2011,Mauv
+82,Daewoo,Nubira,$67300.29,1999,Teal
+83,GMC,Sierra 1500,$29624.80,2013,Indigo
+84,Volkswagen,Passat,$90567.83,2005,Pink
+85,Nissan,GT-R,$63124.32,2011,Pink
+86,Toyota,Land Cruiser,$47075.14,2005,Turquoise
+87,Toyota,Solara,$99075.07,2008,Crimson
+88,GMC,Yukon XL 2500,$77335.47,2005,Aquamarine
+89,Volvo,V40,$74917.26,2004,Crimson
+90,Mercedes-Benz,SLK-Class,$93975.47,1997,Maroon
+91,Dodge,Dakota,$75297.87,1998,Puce
+92,Volkswagen,Phaeton,$74849.36,2006,Purple
+93,Acura,MDX,$36539.32,2005,Green
+94,Oldsmobile,88,$76523.02,1995,Mauv
+95,Suzuki,XL-7,$48883.16,2003,Green
+96,Lexus,RX,$37644.93,2001,Maroon
+97,Lincoln,LS,$69037.02,2001,Blue
+98,Mitsubishi,Outlander,$41616.05,2009,Khaki
+99,Nissan,Titan,$63485.52,2010,Turquoise
+100,GMC,3500,$33125.71,1992,Aquamarine
+101,Chevrolet,Express 1500,$72869.49,2006,Puce
+102,Mazda,Navajo,$95223.99,1994,Crimson
+103,Isuzu,Rodeo Sport,$22534.44,2003,Teal
+104,Nissan,Datsun/Nissan Z-car,$96990.56,1990,Mauv
+105,Kia,Sportage,$52704.30,2000,Maroon
+106,Volkswagen,Rabbit,$80851.47,2007,Yellow
+107,Mercedes-Benz,E-Class,$75940.99,2006,Yellow
+108,Lincoln,Town Car,$89949.00,1995,Maroon
+109,Dodge,Ram Van 1500,$98803.58,1999,Pink
+110,GMC,Savana 1500,$61005.08,2003,Purple
+111,Chevrolet,Express 2500,$57994.37,1997,Maroon
+112,BMW,6 Series,$71666.42,2007,Maroon
+113,Ram,3500,$48613.31,2012,Purple
+114,Volvo,960,$29230.93,1996,Fuscia
+115,Scion,xA,$75894.42,2004,Green
+116,Pontiac,Grand Prix,$23974.15,2003,Red
+117,Jensen,Interceptor,$98094.90,1966,Khaki
+118,Dodge,Intrepid,$20602.56,2001,Turquoise
+119,Dodge,Spirit,$95558.08,1993,Goldenrod
+120,Pontiac,Trans Sport,$99597.38,1993,Violet
+121,Honda,Ridgeline,$94215.72,2009,Blue
+122,BMW,5 Series,$41134.32,2006,Orange
+123,GMC,Yukon XL 1500,$31669.29,2011,Mauv
+124,Volkswagen,Golf,$34779.62,2003,Yellow
+125,Ford,Aerostar,$47614.83,1992,Turquoise
+126,Honda,Passport,$65226.67,1996,Goldenrod
+127,Mitsubishi,Lancer,$74928.72,2003,Blue
+128,Maybach,Landaulet,$50355.85,2009,Goldenrod
+129,Ford,LTD Crown Victoria,$29745.65,1984,Green
+130,Oldsmobile,Silhouette,$39528.32,1998,Aquamarine
+131,Mazda,MX-6,$26849.71,1996,Indigo
+132,GMC,Yukon XL 2500,$37589.30,2006,Turquoise
+133,Buick,Park Avenue,$42833.69,1998,Pink
+134,Audi,4000CS Quattro,$22578.61,1986,Green
+135,Mercedes-Benz,W201,$38149.92,1991,Purple
+136,Volvo,C30,$91492.06,2008,Pink
+137,Saturn,L-Series,$31030.79,2004,Violet
+138,Volvo,C70,$97988.57,2010,Crimson
+139,Mazda,MX-6,$57456.28,1994,Aquamarine
+140,Cadillac,Eldorado,$85254.24,1995,Puce
+141,Buick,Estate,$48908.15,1990,Khaki
+142,Nissan,Altima,$71948.12,1995,Violet
+143,Cadillac,CTS,$49932.55,2007,Green
+144,Suzuki,XL7,$88445.92,2009,Crimson
+145,Cadillac,Seville,$56698.52,2001,Crimson
+146,Land Rover,Range Rover,$20403.78,2002,Teal
+147,Dodge,Intrepid,$75304.22,1999,Khaki
+148,Nissan,Rogue,$68602.54,2010,Purple
+149,Volvo,S60,$53145.75,2011,Goldenrod
+150,Chevrolet,Cobalt,$34196.14,2010,Orange
+151,Audi,Cabriolet,$26542.09,1996,Fuscia
+152,Porsche,Cayman,$60937.76,2006,Puce
+153,Toyota,TundraMax,$55583.29,2010,Maroon
+154,Isuzu,Hombre,$53043.81,1997,Aquamarine
+155,Cadillac,Seville,$38372.78,1996,Indigo
+156,Lotus,Exige,$55053.27,2004,Crimson
+157,Toyota,Avalon,$78541.93,2009,Puce
+158,Mazda,MX-5,$59409.55,2000,Khaki
+159,Mercedes-Benz,CLS-Class,$38904.11,2008,Pink
+160,Chevrolet,Silverado 2500,$52062.15,2000,Orange
+161,Jeep,Commander,$57804.54,2009,Mauv
+162,Chevrolet,Monte Carlo,$22162.49,1999,Puce
+163,Oldsmobile,Bravada,$49878.04,1992,Aquamarine
+164,Ford,Mustang,$71180.48,1964,Indigo
+165,GMC,Envoy,$45429.84,2005,Purple
+166,Aston Martin,DB9 Volante,$43618.81,2006,Teal
+167,Kia,Mentor,$70305.42,1997,Crimson
+168,Mercury,Grand Marquis,$24684.67,1999,Puce
+169,Aston Martin,DB9,$77556.41,2008,Khaki
+170,Suzuki,XL-7,$25509.88,2006,Green
+171,Eagle,Talon,$23761.62,1995,Indigo
+172,Maserati,430,$63986.83,1990,Mauv
+173,Oldsmobile,88,$45311.49,1993,Blue
+174,Mazda,Mazda3,$58540.85,2005,Violet
+175,Subaru,Justy,$96487.24,1989,Red
+176,Ford,Expedition,$82630.81,2000,Teal
+177,Kia,Rio5,$36148.70,2008,Purple
+178,Acura,NSX,$72798.71,1992,Khaki
+179,Chevrolet,Tahoe,$63529.42,1998,Khaki
+180,Ford,Explorer,$58117.60,2013,Teal
+181,Mitsubishi,L300,$78006.92,1987,Violet
+182,Dodge,Viper RT/10,$20947.16,1993,Fuscia
+183,Chevrolet,Blazer,$90526.10,2002,Goldenrod
+184,Hyundai,Sonata,$44114.10,2001,Fuscia
+185,Lotus,Esprit,$48308.16,1986,Yellow
+186,Chevrolet,Suburban 1500,$93343.27,1999,Purple
+187,Mercedes-Benz,600SEC,$22121.27,1993,Red
+188,BMW,525,$47045.28,2005,Green
+189,Chevrolet,Suburban 2500,$90057.61,2012,Yellow
+190,Subaru,Impreza WRX,$30252.42,2011,Violet
+191,Maserati,Quattroporte,$59623.86,2008,Indigo
+192,Toyota,T100,$86072.16,1996,Orange
+193,Aptera,2e,$56831.35,2009,Crimson
+194,Chevrolet,Corvette,$22851.84,2010,Yellow
+195,Toyota,Matrix,$45699.49,2011,Turquoise
+196,Chevrolet,Cavalier,$91861.22,2003,Goldenrod
+197,Nissan,Maxima,$28189.03,2002,Orange
+198,Pontiac,Sunfire,$29038.84,2000,Aquamarine
+199,Mercury,Milan,$29936.18,2007,Indigo
+200,Oldsmobile,88,$24395.52,1997,Crimson
+201,Hyundai,Scoupe,$73324.12,1995,Aquamarine
+202,Chevrolet,Blazer,$88348.08,2002,Fuscia
+203,Chevrolet,Express 1500,$64178.36,2007,Indigo
+204,Audi,riolet,$26772.88,1997,Khaki
+205,GMC,Savana 3500,$34333.74,2001,Aquamarine
+206,Ford,ZX2,$28538.69,2003,Goldenrod
+207,Chevrolet,Silverado 2500,$49713.61,2012,Green
+208,Isuzu,Axiom,$73102.00,2004,Puce
+209,Bentley,Arnage,$36348.54,2008,Red
+210,Toyota,Yaris,$86651.92,2012,Violet
+211,Ford,F-Series,$36099.84,1988,Goldenrod
+212,Ferrari,612 Scaglietti,$93989.71,2008,Puce
+213,Toyota,Tundra,$23299.51,2008,Fuscia
+214,Nissan,Sentra,$85811.29,2012,Fuscia
+215,Mercedes-Benz,C-Class,$60118.81,1997,Orange
+216,Suzuki,Equator,$90876.59,2009,Orange
+217,Chevrolet,Colorado,$88847.32,2011,Crimson
+218,Subaru,Legacy,$27177.13,2007,Goldenrod
+219,Maybach,62,$37270.25,2008,Yellow
+220,Audi,A4,$89519.12,1996,Green
+221,Ford,Explorer Sport Trac,$99081.65,2000,Purple
+222,Cadillac,Seville,$71207.99,1999,Fuscia
+223,Ford,E-Series,$57544.77,1990,Khaki
+224,Ford,Expedition,$35541.25,2005,Goldenrod
+225,Hummer,H1,$46335.33,1993,Blue
+226,Volkswagen,Jetta,$87269.89,1989,Mauv
+227,Audi,A6,$58257.88,2010,Puce
+228,Chevrolet,S10,$81573.50,2003,Orange
+229,Mercedes-Benz,SL-Class,$43893.94,1986,Green
+230,Dodge,Viper,$66106.00,1996,Puce
+231,Jaguar,XK Series,$22103.26,2005,Khaki
+232,Kia,Sedona,$61011.13,2003,Violet
+233,Ford,Ranger,$33868.90,2003,Violet
+234,Infiniti,G25,$29768.54,2011,Crimson
+235,Suzuki,Equator,$66011.30,2011,Teal
+236,Austin,Mini Cooper,$36602.63,1964,Fuscia
+237,Chevrolet,TrailBlazer,$72778.66,2004,Yellow
+238,Mitsubishi,3000GT,$46363.44,1996,Teal
+239,GMC,Canyon,$27390.76,2009,Puce
+240,Aston Martin,V12 Vantage,$40099.85,2011,Yellow
+241,Subaru,SVX,$37297.15,1995,Mauv
+242,Lincoln,Continental,$59801.81,1985,Mauv
+243,Honda,Ridgeline,$65361.96,2011,Fuscia
+244,Chevrolet,Suburban 2500,$74341.62,1997,Aquamarine
+245,Infiniti,Q,$67730.92,1993,Aquamarine
+246,Cadillac,SRX,$61077.21,2006,Mauv
+247,Audi,A8,$50112.73,2006,Mauv
+248,Bentley,Continental,$21857.50,2008,Crimson
+249,Isuzu,Amigo,$56387.75,1993,Violet
+250,Ford,Contour,$93334.71,1999,Goldenrod
+251,Acura,MDX,$33847.78,2004,Maroon
+252,Toyota,Land Cruiser,$34188.25,2005,Maroon
+253,Cadillac,DeVille,$43368.39,1996,Blue
+254,Porsche,968,$85212.87,1993,Pink
+255,Chevrolet,Express 2500,$56512.14,2012,Indigo
+256,Suzuki,Vitara,$31592.91,2003,Turquoise
+257,GMC,Yukon XL 1500,$92874.89,2012,Turquoise
+258,Cadillac,Sixty Special,$38644.16,1993,Maroon
+259,Volkswagen,Touareg 2,$24118.74,2008,Mauv
+260,Ford,Probe,$41914.66,1993,Red
+261,Volkswagen,Eurovan,$84241.98,1999,Blue
+262,Ford,F-Series,$41956.81,1986,Khaki
+263,Suzuki,SX4,$90502.78,2012,Mauv
+264,Mercedes-Benz,CL-Class,$64622.80,2009,Crimson
+265,Kia,Sportage,$97810.89,2002,Red
+266,Pontiac,Sunbird,$66327.28,1983,Purple
+267,Mercury,Montego,$48400.28,2005,Mauv
+268,Mercury,Sable,$54439.10,2004,Blue
+269,Infiniti,G,$45018.12,2007,Yellow
+270,Pontiac,Grand Prix,$55511.78,2006,Green
+271,Infiniti,QX,$89340.88,2009,Goldenrod
+272,BMW,3 Series,$62578.12,2006,Aquamarine
+273,Ford,Explorer Sport Trac,$31389.32,2010,Orange
+274,Plymouth,Breeze,$33932.84,1996,Violet
+275,Dodge,Viper,$65372.95,1993,Teal
+276,Suzuki,Swift,$35203.14,1997,Violet
+277,Porsche,911,$78123.55,2010,Goldenrod
+278,Cadillac,Eldorado,$75503.01,1997,Purple
+279,Suzuki,SJ,$70123.37,1990,Turquoise
+280,Geo,Prizm,$42653.07,1994,Violet
+281,Chevrolet,Suburban 1500,$46169.96,2000,Khaki
+282,Mitsubishi,Cordia,$76143.72,1985,Maroon
+283,Jeep,Cherokee,$63497.10,1992,Indigo
+284,Toyota,4Runner,$62503.03,1993,Pink
+285,Suzuki,Esteem,$63639.30,1997,Teal
+286,Dodge,Charger,$47671.26,1999,Orange
+287,BMW,M3,$91008.24,2005,Aquamarine
+288,Mercedes-Benz,S-Class,$52637.66,1999,Puce
+289,BMW,Z4,$50641.63,2011,Violet
+290,Volvo,S60,$47408.27,2008,Crimson
+291,Ford,Econoline E250,$67393.46,1994,Red
+292,Cadillac,Escalade ESV,$20507.93,2005,Teal
+293,Pontiac,G6,$59816.50,2005,Red
+294,GMC,1500,$23157.63,1996,Green
+295,Land Rover,Defender 90,$68950.48,1995,Blue
+296,Volkswagen,R32,$41225.02,2004,Green
+297,Acura,RSX,$36509.16,2002,Purple
+298,Toyota,Land Cruiser,$85447.31,1995,Khaki
+299,Chevrolet,Camaro,$31728.97,1977,Purple
+300,Mazda,Miata MX-5,$63695.81,2007,Puce
+301,Kia,Rio,$50710.98,2011,Goldenrod
+302,Toyota,Tacoma,$38644.91,2008,Blue
+303,BMW,M,$65557.33,2001,Orange
+304,Ford,Contour,$29406.77,1996,Indigo
+305,Bentley,Azure,$98595.41,2008,Violet
+306,Ford,Explorer Sport Trac,$66117.79,2008,Violet
+307,Saab,9-7X,$28962.70,2006,Mauv
+308,MINI,Countryman,$56582.21,2011,Khaki
+309,Ford,Taurus,$38008.23,1990,Fuscia
+310,Mazda,Familia,$81544.14,1985,Blue
+311,Volvo,S40,$47812.80,2001,Red
+312,Lincoln,Continental,$48502.09,1997,Purple
+313,Volvo,S80,$67192.86,2010,Maroon
+314,Mazda,RX-8,$28816.86,2009,Maroon
+315,Audi,A6,$43452.39,2003,Aquamarine
+316,Infiniti,G,$63117.53,2007,Khaki
+317,Ford,F-Series,$95656.58,1985,Mauv
+318,Buick,Electra,$26882.44,1988,Teal
+319,Ford,Contour,$72278.22,1998,Purple
+320,Mercedes-Benz,300CE,$73876.60,1992,Mauv
+321,Mitsubishi,3000GT,$81240.73,1993,Fuscia
+322,Dodge,Ram 3500,$44948.48,2010,Aquamarine
+323,Dodge,Caliber,$65224.39,2012,Turquoise
+324,Pontiac,Solstice,$65618.86,2008,Teal
+325,Chevrolet,Camaro,$61571.18,1969,Purple
+326,Infiniti,QX56,$50832.74,2011,Aquamarine
+327,Honda,Odyssey,$92075.93,1996,Blue
+328,Subaru,Justy,$24008.13,1990,Crimson
+329,Mercedes-Benz,400SEL,$74590.23,1993,Blue
+330,Ford,Mustang,$23624.86,1979,Maroon
+331,Ford,Probe,$92162.60,1996,Goldenrod
+332,Ford,F250,$67211.40,1996,Mauv
+333,Audi,A8,$52114.96,2009,Yellow
+334,Ford,E-350 Super Duty,$39402.25,2006,Indigo
+335,Mercury,Sable,$42067.06,2004,Maroon
+336,Mercedes-Benz,M-Class,$78437.23,2012,Turquoise
+337,Chevrolet,Tahoe,$66219.77,1997,Green
+338,Porsche,911,$58578.93,2006,Puce
+339,Mazda,929,$27643.72,1991,Khaki
+340,Aston Martin,V12 Vantage,$61055.82,2011,Maroon
+341,Dodge,Ram 2500 Club,$78219.64,1997,Blue
+342,Saab,9000,$91123.90,1996,Mauv
+343,Pontiac,Montana,$97362.71,2003,Khaki
+344,Isuzu,Trooper,$74193.96,1999,Teal
+345,Lincoln,Town Car,$27987.78,2010,Turquoise
+346,Lincoln,Town Car,$94055.86,1986,Khaki
+347,Suzuki,Swift,$38690.63,1999,Goldenrod
+348,Mazda,MPV,$30923.28,2003,Blue
+349,Oldsmobile,Silhouette,$50777.22,1996,Goldenrod
+350,Mercury,Sable,$24685.06,1992,Turquoise
+351,Dodge,Intrepid,$36114.15,1994,Turquoise
+352,GMC,1500,$71988.45,1992,Pink
+353,Mercedes-Benz,E-Class,$47435.66,2012,Pink
+354,Volkswagen,Jetta,$37274.91,2012,Purple
+355,Porsche,Cayenne,$42246.25,2013,Aquamarine
+356,Mitsubishi,Chariot,$21900.07,1996,Purple
+357,Toyota,Corolla,$34575.73,1994,Blue
+358,Toyota,Tacoma,$64946.43,2009,Purple
+359,Mazda,MPV,$77947.63,1994,Goldenrod
+360,Pontiac,Bonneville,$56624.92,1986,Goldenrod
+361,Oldsmobile,Bravada,$84804.55,2003,Yellow
+362,Ford,Taurus,$97170.23,1988,Green
+363,Isuzu,Ascender,$71181.61,2006,Yellow
+364,Chevrolet,Lumina,$51109.39,1999,Red
+365,Ford,Laser,$55787.53,1989,Red
+366,Mitsubishi,Galant,$54836.61,2005,Yellow
+367,Buick,Skylark,$78765.50,1992,Yellow
+368,Toyota,4Runner,$81870.99,1996,Green
+369,Buick,Skylark,$66940.17,1996,Orange
+370,Ferrari,599 GTB Fiorano,$60243.03,2008,Orange
+371,Volvo,XC90,$90241.60,2007,Aquamarine
+372,Bentley,Continental GTC,$42950.39,2011,Yellow
+373,Honda,Civic,$41924.62,2003,Turquoise
+374,Ford,Econoline E150,$89487.35,2002,Puce
+375,Mazda,RX-8,$22965.91,2010,Indigo
+376,Mercury,Mystique,$40646.15,1999,Puce
+377,Porsche,Cayman,$28274.32,2007,Yellow
+378,GMC,Yukon XL 1500,$79634.29,2010,Maroon
+379,Chevrolet,Impala,$42815.30,1994,Blue
+380,Nissan,NX,$43642.93,1992,Aquamarine
+381,Dodge,Ram 2500,$88829.85,1995,Orange
+382,Ford,Contour,$21198.86,1995,Yellow
+383,Jeep,Liberty,$69070.81,2007,Violet
+384,Lamborghini,Diablo,$96451.23,2000,Goldenrod
+385,Chevrolet,TrailBlazer,$38377.65,2003,Aquamarine
+386,Maserati,Biturbo,$92724.10,1984,Green
+387,Nissan,Altima,$81955.34,2012,Aquamarine
+388,Tesla,Model S,$37530.29,2012,Puce
+389,Isuzu,Oasis,$54636.22,1998,Crimson
+390,Honda,Odyssey,$43301.59,1995,Red
+391,Chevrolet,HHR,$37222.89,2006,Violet
+392,GMC,Savana 2500,$68580.04,2004,Crimson
+393,Volkswagen,Golf,$35632.80,2000,Teal
+394,Suzuki,SJ,$47764.12,1985,Maroon
+395,Nissan,Sentra,$61183.36,1996,Khaki
+396,Mazda,929,$31096.83,1992,Blue
+397,Lincoln,Mark VIII,$88992.53,1996,Red
+398,Lexus,ES,$89300.50,2006,Mauv
+399,Mercedes-Benz,E-Class,$21430.27,1991,Turquoise
+400,Cadillac,XLR,$73120.34,2004,Mauv
+401,Subaru,Forester,$45666.27,2001,Maroon
+402,Chevrolet,Express 2500,$29005.87,1998,Orange
+403,Buick,Park Avenue,$61522.01,1999,Mauv
+404,Subaru,Loyale,$61628.71,1994,Maroon
+405,Maserati,Spyder,$74396.62,1991,Green
+406,Chevrolet,3500,$82193.00,1999,Khaki
+407,Pontiac,Sunbird,$37685.18,1989,Red
+408,Hyundai,Sonata,$60447.10,1999,Turquoise
+409,Toyota,Tacoma,$79752.35,1999,Turquoise
+410,Pontiac,Sunbird,$51501.47,1983,Crimson
+411,Chevrolet,Express 1500,$61335.61,1996,Khaki
+412,Ford,Escort,$94469.08,1993,Blue
+413,Panoz,Esperante,$60805.95,2007,Pink
+414,Toyota,Land Cruiser,$88999.81,1993,Green
+415,BMW,530,$40392.65,2002,Orange
+416,Ford,Escort ZX2,$92789.53,2003,Khaki
+417,GMC,Sierra 3500,$23313.77,2009,Green
+418,Chevrolet,Astro,$47673.02,1994,Aquamarine
+419,BMW,Z3,$36347.31,1997,Puce
+420,Subaru,SVX,$48939.14,1993,Pink
+421,Plymouth,Acclaim,$71824.48,1993,Aquamarine
+422,Chevrolet,Camaro,$71276.27,1975,Green
+423,Chevrolet,Camaro,$95853.61,2010,Mauv
+424,Buick,Regal,$56231.89,1991,Orange
+425,GMC,Safari,$80064.36,2001,Crimson
+426,Isuzu,Rodeo Sport,$23163.61,2003,Red
+427,Mercury,Sable,$28157.50,2001,Mauv
+428,Hyundai,Tucson,$68464.61,2009,Goldenrod
+429,Chevrolet,Impala,$38537.90,2006,Turquoise
+430,Toyota,4Runner,$31244.42,2006,Fuscia
+431,Buick,Rainier,$29688.48,2005,Fuscia
+432,Chevrolet,APV,$87722.86,1992,Crimson
+433,Mercedes-Benz,E-Class,$75348.20,2005,Red
+434,Audi,A8,$41882.51,2010,Maroon
+435,Mercedes-Benz,S-Class,$49130.20,1996,Fuscia
+436,Mitsubishi,Lancer,$48608.40,2001,Turquoise
+437,Acura,NSX,$59302.67,1994,Indigo
+438,Mitsubishi,Galant,$66832.31,2002,Indigo
+439,Mazda,MPV,$52086.08,1998,Yellow
+440,Volkswagen,GTI,$81956.09,1991,Goldenrod
+441,Nissan,370Z,$89162.94,2012,Green
+442,Porsche,Cayenne,$55651.73,2003,Aquamarine
+443,Toyota,Supra,$75221.83,1996,Teal
+444,Chevrolet,Suburban 1500,$40294.10,1996,Mauv
+445,Mitsubishi,Truck,$93089.89,1985,Blue
+446,Subaru,Legacy,$48609.99,1994,Puce
+447,Maserati,430,$42499.13,1991,Aquamarine
+448,Lexus,GS,$66858.54,2006,Purple
+449,Pontiac,Grand Prix,$87711.71,1974,Teal
+450,Cadillac,XLR-V,$21081.19,2007,Red
+451,Saab,9-3,$68137.16,2012,Orange
+452,Ford,F350,$88350.55,2000,Mauv
+453,Chevrolet,Monte Carlo,$90795.74,1997,Red
+454,Mitsubishi,Cordia,$72218.22,1987,Crimson
+455,Porsche,944,$42164.76,1990,Turquoise
+456,Volkswagen,Fox,$98183.96,1991,Violet
+457,Dodge,Dakota Club,$54202.32,1992,Mauv
+458,Ford,Windstar,$36106.43,1995,Orange
+459,Buick,Coachbuilder,$23766.62,1993,Fuscia
+460,Dodge,Caliber,$35793.39,2007,Khaki
+461,Cadillac,Seville,$72347.49,2000,Maroon
+462,Toyota,Camry,$24235.82,2008,Green
+463,Saturn,L-Series,$63233.73,2001,Aquamarine
+464,GMC,Vandura 2500,$42382.45,1994,Goldenrod
+465,Dodge,Ram,$71085.67,2011,Green
+466,BMW,X6 M,$98544.03,2013,Yellow
+467,GMC,Safari,$48112.99,1993,Puce
+468,Mazda,626,$84395.50,1984,Crimson
+469,Plymouth,Prowler,$91880.80,1999,Orange
+470,Pontiac,Grand Am,$95109.67,2001,Blue
+471,Mitsubishi,Mirage,$84507.46,1996,Goldenrod
+472,Lotus,Esprit,$46417.00,2004,Goldenrod
+473,Suzuki,Kizashi,$79118.02,2011,Turquoise
+474,Mercedes-Benz,C-Class,$83185.54,2003,Goldenrod
+475,Volvo,S90,$80927.97,1997,Blue
+476,Chevrolet,Corvette,$51198.21,1975,Violet
+477,Mazda,Mazda6 5-Door,$97183.39,2006,Turquoise
+478,Ford,E250,$38793.65,2004,Violet
+479,Audi,S6,$56794.66,2002,Puce
+480,Lexus,GS,$73707.73,2011,Mauv
+481,Ford,Explorer Sport Trac,$88551.80,2006,Orange
+482,Mazda,RX-8,$42407.09,2010,Crimson
+483,Mercedes-Benz,CL-Class,$57117.27,1998,Red
+484,Subaru,Legacy,$53943.84,2003,Pink
+485,Dodge,Ram Van 2500,$92779.34,1998,Orange
+486,Mazda,B-Series,$60808.81,2001,Orange
+487,Ford,E150,$60667.72,2003,Fuscia
+488,Lexus,SC,$73036.51,2007,Goldenrod
+489,Subaru,Justy,$22954.39,1988,Teal
+490,Maybach,Landaulet,$80907.20,2010,Turquoise
+491,Audi,A6,$32387.93,2011,Purple
+492,Acura,SLX,$57571.39,1997,Mauv
+493,Volkswagen,Eurovan,$64690.30,2000,Khaki
+494,GMC,Envoy XUV,$72150.87,2005,Puce
+495,Volvo,XC90,$46597.37,2004,Red
+496,Acura,CL,$80357.31,1999,Indigo
+497,Ford,Mustang,$64704.52,1971,Crimson
+498,Oldsmobile,Alero,$82186.60,2000,Yellow
+499,Ford,F350,$26935.50,2002,Mauv
+500,Lotus,Evora,$98735.48,2010,Khaki
+501,Chevrolet,Silverado 1500,$97194.51,1999,Aquamarine
+502,GMC,Canyon,$82343.83,2009,Fuscia
+503,Mercedes-Benz,500SEL,$47120.40,1992,Red
+504,Dodge,Dakota Club,$85170.75,1999,Turquoise
+505,Mitsubishi,GTO,$59791.18,1998,Purple
+506,Isuzu,Ascender,$21895.77,2008,Khaki
+507,Honda,Prelude,$26520.67,1994,Blue
+508,GMC,Rally Wagon G2500,$28145.91,1995,Turquoise
+509,Bentley,Continental Flying Spur,$28075.62,2007,Green
+510,Pontiac,Firefly,$69036.95,1985,Goldenrod
+511,Chevrolet,Impala,$37095.02,1994,Pink
+512,Volkswagen,Jetta,$30227.00,1994,Mauv
+513,Dodge,Dakota Club,$43151.01,2007,Indigo
+514,Maybach,62,$94291.32,2007,Violet
+515,Volvo,S60,$60514.01,2013,Crimson
+516,Nissan,Maxima,$52806.69,2006,Maroon
+517,Volkswagen,GTI,$65745.89,1995,Purple
+518,Lotus,Esprit,$50731.79,1989,Goldenrod
+519,GMC,Safari,$50893.60,1995,Purple
+520,Oldsmobile,98,$73545.72,1995,Maroon
+521,Dodge,Viper,$66399.51,1999,Teal
+522,Audi,90,$73812.14,1989,Violet
+523,Mercedes-Benz,600SEL,$32552.91,1992,Green
+524,Suzuki,SJ,$23777.09,1995,Pink
+525,Maserati,Spyder,$41093.54,1990,Yellow
+526,Mercedes-Benz,SLK-Class,$97709.40,2011,Aquamarine
+527,Volvo,XC70,$35539.22,2010,Teal
+528,Mitsubishi,Galant,$22264.95,2001,Khaki
+529,Dodge,Grand Caravan,$73075.61,2003,Violet
+530,Pontiac,Sunfire,$35977.94,2003,Aquamarine
+531,GMC,Canyon,$52632.74,2011,Pink
+532,Infiniti,FX,$28265.94,2007,Indigo
+533,Mazda,B-Series,$52187.61,1988,Mauv
+534,Mazda,Protege,$39962.77,1998,Yellow
+535,Hyundai,Sonata,$83518.01,1998,Pink
+536,Mercury,Topaz,$42795.43,1988,Blue
+537,Ford,Crown Victoria,$36389.95,2002,Green
+538,Suzuki,Vitara,$68378.68,2004,Fuscia
+539,Chevrolet,Prizm,$65091.02,2000,Fuscia
+540,Mazda,Mazda6,$23447.58,2009,Fuscia
+541,Kia,Sedona,$43901.62,2005,Orange
+542,Hummer,H2 SUV,$52006.66,2006,Puce
+543,Suzuki,Cultus,$27491.75,1985,Purple
+544,Subaru,Baja,$62343.85,2004,Turquoise
+545,Mercury,Grand Marquis,$33830.05,2009,Fuscia
+546,Audi,A6,$48880.94,2005,Blue
+547,Pontiac,GTO,$23530.36,1964,Aquamarine
+548,Suzuki,Swift,$55001.05,1990,Indigo
+549,Ford,F-Series,$30302.55,2002,Fuscia
+550,BMW,645,$25303.06,2005,Aquamarine
+551,Austin,Mini Cooper S,$22776.11,1963,Puce
+552,Volvo,850,$54541.03,1996,Khaki
+553,Ford,F-Series,$88859.01,1991,Fuscia
+554,Dodge,Durango,$37351.57,2002,Crimson
+555,BMW,750,$47364.82,2006,Turquoise
+556,Porsche,928,$79861.42,1995,Pink
+557,Nissan,Altima,$55009.35,2005,Purple
+558,Mercedes-Benz,SL-Class,$98682.89,1991,Purple
+559,Dodge,Ram 2500,$42787.16,2008,Green
+560,Oldsmobile,Silhouette,$42938.42,2003,Turquoise
+561,Mercedes-Benz,S-Class,$93978.85,1994,Puce
+562,Dodge,Viper,$44232.04,2002,Khaki
+563,Ford,F350,$97726.39,2001,Green
+564,Lexus,IS-F,$73785.55,2008,Teal
+565,Oldsmobile,Bravada,$45083.48,2003,Mauv
+566,Suzuki,X-90,$57734.49,1997,Green
+567,Mercury,Monterey,$92177.93,2005,Khaki
+568,Chevrolet,Monte Carlo,$86976.80,1999,Turquoise
+569,Chevrolet,APV,$77364.43,1992,Purple
+570,Land Rover,Defender 90,$86220.19,1997,Turquoise
+571,Toyota,Highlander,$60600.16,2001,Green
+572,Dodge,Dakota Club,$47120.93,2006,Teal
+573,Mitsubishi,Eclipse,$98418.17,1993,Crimson
+574,Plymouth,Prowler,$29172.12,1999,Fuscia
+575,Cadillac,DeVille,$31583.35,1999,Teal
+576,Oldsmobile,88,$75043.50,1995,Crimson
+577,Suzuki,Grand Vitara,$58529.59,2008,Mauv
+578,Volkswagen,Golf,$48221.18,2004,Teal
+579,Honda,Fit,$43349.11,2010,Khaki
+580,Lotus,Evora,$90717.50,2011,Red
+581,Toyota,Camry,$97370.37,2006,Purple
+582,Chrysler,300,$23404.31,2009,Green
+583,Aston Martin,DB9,$86542.12,2010,Yellow
+584,Mercedes-Benz,SLR McLaren,$48443.66,2005,Indigo
+585,Chrysler,Town & Country,$56615.28,1993,Yellow
+586,Jeep,Cherokee,$68535.96,1996,Blue
+587,Chrysler,Imperial,$73191.20,1993,Mauv
+588,Buick,Century,$85622.77,2003,Violet
+589,Lincoln,MKX,$91991.03,2008,Mauv
+590,Lamborghini,Gallardo,$33981.59,2012,Red
+591,Acura,RL,$97149.83,2007,Turquoise
+592,Maybach,62,$90499.78,2006,Turquoise
+593,Infiniti,M,$55090.90,2009,Turquoise
+594,Jaguar,X-Type,$94917.57,2005,Yellow
+595,Ford,Explorer Sport Trac,$76055.70,2005,Aquamarine
+596,Audi,A5,$81644.76,2009,Khaki
+597,Chrysler,Town & Country,$31935.18,2003,Fuscia
+598,Bugatti,Veyron,$52702.55,2009,Red
+599,Mitsubishi,Pajero,$86763.87,1994,Aquamarine
+600,Kia,Amanti,$53460.61,2009,Pink
+601,Acura,TSX,$51808.37,2005,Teal
+602,Lincoln,Town Car,$49626.46,2004,Mauv
+603,Mitsubishi,Cordia,$43038.07,1985,Yellow
+604,Scion,tC,$85390.15,2008,Mauv
+605,Mazda,Protege,$79662.79,1995,Goldenrod
+606,Mitsubishi,Chariot,$31847.77,1989,Aquamarine
+607,Mercury,Topaz,$72738.92,1990,Teal
+608,Mercedes-Benz,300D,$31240.92,1992,Maroon
+609,Volkswagen,GTI,$89785.50,1991,Violet
+610,Ford,F250,$20762.38,1997,Aquamarine
+611,Pontiac,Firefly,$63826.16,1990,Indigo
+612,Lincoln,Town Car,$83475.84,1999,Aquamarine
+613,Jeep,Grand Cherokee,$52267.67,2002,Teal
+614,Mazda,RX-8,$25418.48,2011,Purple
+615,Toyota,Land Cruiser,$87924.93,2000,Yellow
+616,Buick,Skylark,$78241.61,1995,Goldenrod
+617,Mazda,Protege,$56182.30,1994,Teal
+618,Land Rover,Defender,$46197.44,1995,Purple
+619,Ford,F250,$50452.42,1999,Fuscia
+620,Pontiac,Sunbird,$66484.36,1988,Green
+621,Chevrolet,S10 Blazer,$91601.42,1994,Puce
+622,Buick,Park Avenue,$86977.48,1997,Red
+623,Geo,Metro,$31515.33,1994,Teal
+624,Land Rover,Range Rover Sport,$43136.08,2011,Purple
+625,Jaguar,XJ,$81052.80,2012,Aquamarine
+626,Dodge,Ram 2500,$52175.07,1996,Crimson
+627,Toyota,Matrix,$82520.30,2004,Mauv
+628,Mazda,Mazda6 Sport,$54130.22,2006,Orange
+629,Maserati,Quattroporte,$96623.61,2011,Teal
+630,Mercedes-Benz,E-Class,$38957.32,2008,Goldenrod
+631,Audi,A6,$33836.07,1995,Green
+632,Ford,Escort,$44094.09,2000,Violet
+633,Nissan,Stanza,$82080.81,1992,Blue
+634,Toyota,Land Cruiser,$79397.65,2000,Red
+635,Dodge,Ram Van 2500,$41220.46,1998,Green
+636,Oldsmobile,Bravada,$45175.44,2004,Turquoise
+637,Mercedes-Benz,GL-Class,$93907.55,2012,Indigo
+638,Nissan,Frontier,$35008.68,2005,Blue
+639,Volkswagen,Passat,$25989.04,1994,Maroon
+640,Infiniti,QX,$32313.85,1999,Turquoise
+641,Chevrolet,Uplander,$94592.48,2008,Green
+642,Cadillac,SRX,$72545.26,2004,Red
+643,Volvo,960,$92317.05,1994,Violet
+644,Lincoln,Navigator L,$26708.61,2011,Goldenrod
+645,Plymouth,Horizon,$53797.91,1978,Fuscia
+646,Volkswagen,New Beetle,$61910.07,2009,Goldenrod
+647,Dodge,Ram 2500 Club,$34696.08,1997,Yellow
+648,Chevrolet,Lumina,$48824.45,2000,Green
+649,Mitsubishi,Chariot,$68370.63,1992,Yellow
+650,Chevrolet,Astro,$50192.58,1999,Violet
+651,Hyundai,Tucson,$86753.49,2008,Goldenrod
+652,Mazda,RX-7,$51819.11,1983,Maroon
+653,Audi,R8,$23108.96,2012,Red
+654,Mercedes-Benz,M-Class,$24678.14,1998,Aquamarine
+655,Toyota,Corolla,$79925.20,2004,Purple
+656,Subaru,Legacy,$40716.94,2011,Orange
+657,Suzuki,Vitara,$36510.46,2001,Pink
+658,Toyota,Tacoma,$81454.03,1998,Yellow
+659,Honda,CR-V,$59975.35,2012,Puce
+660,Dodge,Caravan,$70886.17,2012,Crimson
+661,Dodge,D350 Club,$21428.12,1992,Turquoise
+662,Mazda,Mazda3,$62319.74,2008,Yellow
+663,Ford,E-Series,$50434.01,2002,Khaki
+664,Chevrolet,S10,$52457.15,1993,Red
+665,Volkswagen,Touareg,$42380.90,2005,Aquamarine
+666,Mazda,MPV,$75413.99,2000,Mauv
+667,Chrysler,Pacifica,$32218.59,2004,Yellow
+668,Buick,Regal,$81278.78,1990,Goldenrod
+669,GMC,Sierra,$65946.98,2010,Turquoise
+670,Chevrolet,Aveo,$49104.95,2010,Teal
+671,Ford,Econoline E250,$83794.80,1997,Orange
+672,Nissan,Pathfinder,$20570.48,2009,Violet
+673,Mercedes-Benz,CLK-Class,$66354.00,2003,Indigo
+674,Mercury,Grand Marquis,$57654.95,2002,Goldenrod
+675,Lexus,RX Hybrid,$67963.25,2007,Pink
+676,Lexus,RX Hybrid,$30686.34,2012,Yellow
+677,Ford,Crown Victoria,$86414.39,2005,Pink
+678,Volvo,S40,$99605.50,2007,Green
+679,Porsche,Boxster,$25149.56,2009,Goldenrod
+680,Ford,F-Series,$55562.52,1985,Puce
+681,Dodge,Stratus,$90977.73,1997,Violet
+682,Hyundai,Excel,$49936.56,1993,Yellow
+683,Infiniti,G,$35210.27,2001,Red
+684,Mitsubishi,Eclipse,$63960.76,2001,Mauv
+685,Buick,LaCrosse,$92020.15,2006,Khaki
+686,Lexus,ES,$72574.64,2010,Maroon
+687,Nissan,Quest,$79728.86,2001,Crimson
+688,Holden,Monaro,$51863.05,2004,Mauv
+689,Oldsmobile,98,$35011.96,1992,Orange
+690,Mercedes-Benz,C-Class,$95642.51,2006,Yellow
+691,Mercury,Topaz,$76864.10,1994,Yellow
+692,Buick,Estate,$25847.82,1990,Teal
+693,Honda,Accord,$64481.05,1998,Purple
+694,Chrysler,Aspen,$86356.19,2008,Crimson
+695,Subaru,Forester,$29909.90,2004,Turquoise
+696,Jaguar,XJ,$44546.58,2006,Teal
+697,Mazda,Navajo,$83417.89,1993,Blue
+698,Aston Martin,Rapide,$26458.08,2011,Yellow
+699,Porsche,911,$26087.21,1985,Yellow
+700,Pontiac,Bonneville,$53461.30,1964,Mauv
+701,Nissan,350Z,$55370.94,2004,Pink
+702,Chevrolet,Blazer,$34679.19,2005,Pink
+703,Ford,Econoline E150,$80881.57,2001,Turquoise
+704,Subaru,XT,$53160.74,1990,Orange
+705,Toyota,Tundra,$81755.26,2010,Violet
+706,BMW,Z3,$48070.94,2002,Puce
+707,Chevrolet,Cobalt SS,$82801.32,2007,Pink
+708,Mercedes-Benz,SL-Class,$36903.10,1994,Goldenrod
+709,Mercedes-Benz,GL-Class,$75093.59,2012,Violet
+710,Audi,S6,$45951.81,2002,Puce
+711,Chevrolet,Tahoe,$85933.20,1996,Purple
+712,Lincoln,Navigator,$83539.59,2012,Puce
+713,Volvo,V70,$51829.68,2009,Maroon
+714,Chevrolet,2500,$32436.72,1998,Green
+715,Panoz,Esperante,$39953.29,2007,Blue
+716,Ford,F150,$70801.66,2004,Green
+717,Lexus,LX,$91929.54,2004,Red
+718,Lincoln,Continental,$72271.59,1999,Violet
+719,Suzuki,Daewoo Magnus,$42690.44,2005,Indigo
+720,Ford,F250,$83082.79,1994,Mauv
+721,Mitsubishi,Mighty Max,$83192.52,1995,Yellow
+722,Chevrolet,Camaro,$60009.18,1978,Yellow
+723,Acura,NSX,$91020.93,1993,Puce
+724,Pontiac,Bonneville,$42610.04,1991,Red
+725,Honda,del Sol,$69105.46,1993,Yellow
+726,Pontiac,6000,$64705.62,1989,Pink
+727,Chevrolet,Corvette,$35923.74,1961,Turquoise
+728,Volkswagen,Golf,$20648.84,2002,Indigo
+729,Scion,tC,$65305.05,2009,Maroon
+730,Mitsubishi,Montero,$89314.60,1993,Teal
+731,Buick,LeSabre,$89431.41,2005,Puce
+732,Saturn,Sky,$40782.18,2008,Pink
+733,Nissan,Murano,$22723.75,2004,Blue
+734,Acura,RL,$42247.38,2009,Yellow
+735,Jaguar,S-Type,$45105.21,2004,Pink
+736,Mercedes-Benz,CLS-Class,$59064.53,2008,Green
+737,Cadillac,Escalade,$85756.50,2006,Maroon
+738,Mazda,Protege,$42436.93,1992,Mauv
+739,BMW,Z3,$23169.05,1998,Mauv
+740,GMC,Yukon XL 2500,$22220.30,2004,Green
+741,Oldsmobile,Cutlass Supreme,$46863.37,1996,Orange
+742,Daewoo,Nubira,$42027.91,2001,Teal
+743,Rolls-Royce,Phantom,$80594.40,2006,Puce
+744,Volvo,V70,$28872.66,2008,Teal
+745,Nissan,Quest,$46796.89,2005,Teal
+746,Chevrolet,Express 3500,$65508.12,2001,Indigo
+747,Jaguar,XJ Series,$73740.08,2002,Green
+748,Cadillac,Escalade,$95730.94,2012,Blue
+749,Mitsubishi,Tredia,$73625.78,1986,Puce
+750,Hillman,Minx Magnificent,$45771.83,1950,Turquoise
+751,Chevrolet,G-Series 3500,$78978.78,1998,Khaki
+752,Hummer,H3,$44795.98,2006,Khaki
+753,Honda,Insight,$31540.94,2010,Fuscia
+754,Chevrolet,G-Series G20,$65810.33,1994,Red
+755,Ford,E-Series,$66217.15,1993,Puce
+756,Oldsmobile,88,$59388.46,1993,Goldenrod
+757,Toyota,Sienna,$88043.89,1998,Violet
+758,Lamborghini,Murciélago,$24082.37,2008,Yellow
+759,Ford,E-Series,$93692.56,1987,Maroon
+760,Cadillac,XLR,$61694.89,2007,Crimson
+761,Dodge,Stratus,$87327.90,1996,Green
+762,Ford,Econoline E150,$73523.43,1993,Khaki
+763,Mercury,Villager,$79291.41,2001,Yellow
+764,Ford,LTD Crown Victoria,$59246.44,1988,Crimson
+765,Mazda,B-Series Plus,$27912.37,1993,Khaki
+766,Volkswagen,GTI,$39693.67,1992,Violet
+767,Mazda,MX-5,$24751.40,1996,Red
+768,GMC,Envoy,$81650.37,2004,Fuscia
+769,Audi,S4,$65993.54,2009,Yellow
+770,Isuzu,Axiom,$98242.44,2002,Teal
+771,Pontiac,Bonneville,$44490.78,1989,Green
+772,Acura,RL,$21589.46,2004,Mauv
+773,Mercedes-Benz,E-Class,$35282.96,1991,Teal
+774,Dodge,Ram 2500 Club,$99256.50,1997,Teal
+775,Volkswagen,Scirocco,$53345.27,1986,Indigo
+776,Audi,4000s,$87193.74,1986,Crimson
+777,Ford,Ranger,$77319.09,1987,Maroon
+778,Chevrolet,Venture,$37941.50,1997,Blue
+779,GMC,Savana 1500,$84084.60,1999,Orange
+780,Volvo,V40,$96414.18,2004,Puce
+781,Hyundai,Entourage,$87520.30,2007,Aquamarine
+782,Aptera,Type-1h,$96374.81,2010,Pink
+783,Land Rover,Range Rover,$33319.96,1996,Turquoise
+784,Mercury,Mystique,$20394.83,1999,Fuscia
+785,Honda,Odyssey,$21334.23,2008,Khaki
+786,Mercedes-Benz,SLK-Class,$89922.82,2006,Mauv
+787,Saab,9000,$63279.93,1987,Maroon
+788,Chevrolet,Colorado,$37995.70,2005,Purple
+789,Mercedes-Benz,SL-Class,$38187.49,2004,Orange
+790,Ford,Mustang,$40802.56,1968,Aquamarine
+791,Bentley,Mulsanne,$39614.28,2012,Turquoise
+792,Buick,Rainier,$34138.26,2004,Purple
+793,Jaguar,XJ Series,$52581.34,1992,Aquamarine
+794,Volkswagen,rio,$75395.44,2000,Khaki
+795,Mercedes-Benz,600SEL,$46944.96,1993,Purple
+796,Buick,Skylark,$93855.81,1989,Yellow
+797,GMC,Yukon XL 1500,$31446.74,2006,Aquamarine
+798,Lexus,SC,$23093.14,2005,Goldenrod
+799,Jeep,Compass,$24667.70,2012,Crimson
+800,Mercedes-Benz,SLK-Class,$51697.40,2009,Khaki
+801,Toyota,Celica,$96479.10,1997,Crimson
+802,Ford,E-Series,$67686.47,2010,Indigo
+803,Mercedes-Benz,SLR McLaren,$90076.24,2009,Teal
+804,Mitsubishi,Pajero,$23292.04,2004,Pink
+805,Nissan,240SX,$20505.90,1992,Indigo
+806,Mercury,Sable,$74831.58,1989,Goldenrod
+807,Toyota,Camry Solara,$49563.01,2006,Aquamarine
+808,Honda,Prelude,$73828.59,1999,Maroon
+809,Ford,C-MAX Hybrid,$60976.41,2013,Turquoise
+810,Acura,TL,$35047.98,2005,Khaki
+811,Ford,Mustang,$82816.35,1992,Orange
+812,Ford,Econoline E150,$36353.51,1999,Orange
+813,Lincoln,MKZ,$92019.55,2008,Indigo
+814,Chevrolet,Blazer,$68943.84,1994,Fuscia
+815,Chevrolet,Camaro,$43918.72,1971,Indigo
+816,Mazda,Miata MX-5,$79769.30,1997,Teal
+817,Chevrolet,Tracker,$74608.46,2004,Blue
+818,Ford,Mustang,$95734.62,1970,Pink
+819,Ford,Ranger,$21651.90,2000,Turquoise
+820,Pontiac,Firefly,$99507.23,1985,Aquamarine
+821,GMC,Sonoma Club Coupe,$73512.14,1995,Maroon
+822,BMW,7 Series,$48744.89,1998,Indigo
+823,Lexus,RX,$48470.39,2011,Teal
+824,Mazda,Miata MX-5,$86949.95,2002,Teal
+825,Volvo,S70,$24089.03,1998,Indigo
+826,Ford,Bronco,$67444.40,1993,Turquoise
+827,Toyota,Highlander,$88704.20,2002,Pink
+828,Chevrolet,Express 1500,$84534.12,2012,Green
+829,Chevrolet,G-Series 1500,$41861.90,1997,Crimson
+830,Chrysler,Concorde,$95390.36,1994,Khaki
+831,Chevrolet,Monte Carlo,$60336.75,2000,Green
+832,Volkswagen,Corrado,$51568.43,1993,Blue
+833,Ford,Explorer Sport,$44333.47,2003,Yellow
+834,Nissan,Pathfinder,$30688.59,2007,Violet
+835,Land Rover,Defender,$72959.40,1992,Violet
+836,Chevrolet,Colorado,$54713.62,2007,Mauv
+837,Ford,Ranger,$28119.34,1987,Aquamarine
+838,Suzuki,SJ,$78317.02,1993,Fuscia
+839,GMC,Canyon,$66339.65,2008,Green
+840,Ford,Fiesta,$99187.18,2011,Green
+841,Bentley,Continental Super,$50933.89,2012,Maroon
+842,Volkswagen,Passat,$95518.66,2008,Turquoise
+843,Chevrolet,Camaro,$68421.19,1971,Goldenrod
+844,Chevrolet,Silverado,$38643.43,2008,Puce
+845,Pontiac,Torrent,$53666.34,2007,Orange
+846,Audi,A4,$76123.54,1997,Turquoise
+847,BMW,7 Series,$96682.08,1997,Purple
+848,Maybach,Landaulet,$92614.65,2010,Indigo
+849,Mitsubishi,Mighty Max Macro,$32097.26,1994,Khaki
+850,Ford,F350,$38589.47,2005,Teal
+851,Mercury,Grand Marquis,$44290.14,2008,Puce
+852,Chrysler,LHS,$74880.30,1997,Indigo
+853,GMC,Sierra 1500,$64170.84,2006,Orange
+854,Lexus,LS Hybrid,$41575.61,2010,Goldenrod
+855,Chevrolet,TrailBlazer,$90468.65,2002,Violet
+856,Honda,Prelude,$54744.20,1999,Indigo
+857,Plymouth,Colt Vista,$52907.22,1992,Mauv
+858,Nissan,GT-R,$40006.12,2013,Fuscia
+859,Dodge,Viper,$56582.40,2001,Blue
+860,Subaru,Tribeca,$29138.65,2006,Aquamarine
+861,Volvo,S40,$55233.22,2004,Turquoise
+862,Chevrolet,Camaro,$49841.96,1974,Puce
+863,Chevrolet,Impala,$41323.26,2012,Aquamarine
+864,Toyota,Corolla,$80700.94,2002,Orange
+865,Volkswagen,Scirocco,$62017.94,1984,Blue
+866,Volvo,XC60,$32455.17,2011,Mauv
+867,Lexus,LS,$84167.28,2008,Turquoise
+868,Saturn,S-Series,$70827.43,2002,Pink
+869,Land Rover,Range Rover Sport,$49455.94,2012,Khaki
+870,Pontiac,Aztek,$86790.71,2002,Goldenrod
+871,Chevrolet,Metro,$85395.52,2000,Pink
+872,Hyundai,Accent,$74936.78,2006,Green
+873,Suzuki,Samurai,$60269.10,1992,Khaki
+874,MINI,Countryman,$98733.90,2012,Purple
+875,Lincoln,MKS,$71496.66,2012,Khaki
+876,Acura,CL,$85724.86,1999,Violet
+877,Dodge,Ram 3500 Club,$29970.56,1997,Purple
+878,Dodge,Ram 3500,$93116.72,1994,Teal
+879,Mitsubishi,Diamante,$82008.29,1993,Red
+880,Mazda,B-Series,$90926.91,2009,Fuscia
+881,BMW,X6,$82126.19,2009,Pink
+882,Ford,F150,$54667.14,2011,Khaki
+883,Toyota,Corolla,$99275.75,2002,Puce
+884,Honda,Civic,$53019.35,1980,Aquamarine
+885,Mercury,Cougar,$97179.81,1996,Pink
+886,GMC,Envoy,$71557.04,2004,Blue
+887,Dodge,Caravan,$70148.62,2000,Blue
+888,Kia,Sedona,$25114.19,2004,Orange
+889,Mazda,MX-5,$51877.57,2001,Blue
+890,Saturn,L-Series,$70871.25,2001,Indigo
+891,Land Rover,Freelander,$73235.88,2004,Purple
+892,Hyundai,XG350,$65930.03,2003,Purple
+893,Audi,V8,$50725.53,1992,Green
+894,Bentley,Mulsanne,$44076.24,2012,Blue
+895,Chevrolet,K5 Blazer,$89855.53,1995,Khaki
+896,Toyota,Camry Solara,$51261.27,2006,Green
+897,BMW,M3,$43287.14,2009,Aquamarine
+898,Audi,A6,$69583.97,2001,Goldenrod
+899,Chevrolet,Express,$85544.55,2012,Indigo
+900,Toyota,Highlander,$69034.24,2001,Maroon
+901,Buick,Century,$97751.06,1999,Green
+902,Audi,Q5,$42523.82,2012,Indigo
+903,Hummer,H2 SUV,$56109.87,2006,Yellow
+904,Mercedes-Benz,Sprinter 3500,$94976.57,2012,Red
+905,Kia,Sportage,$82168.05,2009,Red
+906,Ford,Mustang,$38572.30,1987,Purple
+907,Buick,Century,$27384.78,1989,Orange
+908,Ford,F-Series Super Duty,$76893.69,2011,Goldenrod
+909,Cadillac,Seville,$82591.69,1995,Pink
+910,Maserati,Quattroporte,$76639.74,1985,Aquamarine
+911,Chrysler,PT Cruiser,$92094.13,2009,Violet
+912,Bentley,Azure,$68717.32,2008,Khaki
+913,Ford,F450,$25570.10,2010,Indigo
+914,Chevrolet,Silverado,$31834.23,2006,Khaki
+915,Chevrolet,Corvette,$53744.63,1984,Puce
+916,Mazda,Navajo,$33067.42,1992,Fuscia
+917,GMC,Vandura 2500,$81388.51,1992,Purple
+918,Cadillac,CTS,$31139.34,2003,Indigo
+919,GMC,2500,$81408.52,1992,Teal
+920,Cadillac,DTS,$96440.77,2006,Turquoise
+921,Honda,del Sol,$30067.00,1997,Turquoise
+922,Kia,Carens,$25646.14,2009,Pink
+923,Toyota,Tundra,$94120.25,2001,Green
+924,Porsche,911,$29144.35,2004,Pink
+925,Audi,4000s Quattro,$92510.38,1986,Mauv
+926,Acura,RSX,$71931.57,2005,Teal
+927,Alfa Romeo,Spider,$55497.23,1994,Fuscia
+928,Subaru,Outback,$62343.45,2006,Violet
+929,Lotus,Esprit,$65836.93,1995,Green
+930,Honda,Accord,$59644.86,1995,Mauv
+931,GMC,Savana,$27154.97,2011,Turquoise
+932,Volkswagen,Jetta,$64317.08,1998,Khaki
+933,Spyker,C8 Double 12 S,$60406.02,2006,Mauv
+934,Audi,Allroad,$79801.33,2002,Red
+935,GMC,2500 Club Coupe,$23970.02,1992,Fuscia
+936,Mitsubishi,Raider,$34717.55,2006,Puce
+937,Suzuki,SX4,$78957.67,2009,Indigo
+938,Subaru,Impreza,$24826.40,2009,Violet
+939,Lincoln,MKX,$88204.14,2009,Turquoise
+940,BMW,M,$28327.50,2002,Purple
+941,Ford,Bronco,$54534.15,1989,Violet
+942,Acura,Integra,$76954.55,1995,Orange
+943,Oldsmobile,Alero,$89738.75,2001,Turquoise
+944,Volkswagen,Corrado,$37887.51,1994,Blue
+945,Suzuki,XL-7,$98237.10,2003,Goldenrod
+946,Toyota,Corolla,$31711.61,1996,Violet
+947,Honda,Fit,$62634.04,2012,Red
+948,Ford,Escape,$76129.53,2013,Red
+949,Chevrolet,Avalanche 1500,$63924.43,2004,Green
+950,Toyota,Avalon,$40454.73,1996,Maroon
+951,Ferrari,California,$48276.72,2010,Teal
+952,Saab,900,$56220.14,1991,Khaki
+953,Suzuki,Esteem,$20097.19,2001,Yellow
+954,Mercedes-Benz,M-Class,$59073.63,1999,Crimson
+955,Mitsubishi,Truck,$67791.11,1986,Pink
+956,Infiniti,G,$61944.29,2004,Indigo
+957,Isuzu,Trooper,$45422.52,2001,Maroon
+958,Bentley,Arnage,$87527.91,2006,Green
+959,Saturn,Outlook,$36767.09,2008,Turquoise
+960,Toyota,Prius,$34785.04,2003,Pink
+961,Hyundai,Veracruz,$78655.90,2012,Maroon
+962,Audi,Quattro,$48084.63,1994,Goldenrod
+963,Volvo,S40,$78193.75,2011,Mauv
+964,Chrysler,Town & Country,$73020.85,1999,Indigo
+965,Acura,RL,$25371.24,2008,Pink
+966,Volkswagen,rio,$27456.47,1997,Maroon
+967,Honda,S2000,$98409.17,2007,Crimson
+968,GMC,Yukon,$35532.07,2010,Teal
+969,Mercedes-Benz,CLK-Class,$95237.34,2007,Indigo
+970,Ford,Explorer,$84959.31,1992,Fuscia
+971,Ford,Econoline E350,$52159.51,1997,Fuscia
+972,Aston Martin,V8 Vantage S,$78781.42,2011,Yellow
+973,GMC,1500 Club Coupe,$21996.37,1996,Crimson
+974,Buick,Century,$72244.40,1986,Puce
+975,Buick,Skylark,$58989.95,1994,Red
+976,Daewoo,Leganza,$78385.64,2000,Khaki
+977,Subaru,Impreza,$40012.66,2003,Mauv
+978,Infiniti,QX,$50939.35,2006,Goldenrod
+979,Mercury,Villager,$95313.89,2002,Crimson
+980,Ford,LTD Crown Victoria,$77479.60,1991,Purple
+981,Lexus,GX,$56087.66,2006,Blue
+982,GMC,Acadia,$91659.90,2011,Mauv
+983,Jaguar,XK Series,$37130.27,2005,Indigo
+984,Chevrolet,G-Series 2500,$28960.72,1996,Blue
+985,Ford,Econoline E250,$29720.58,1999,Fuscia
+986,Toyota,TundraMax,$29850.49,2009,Pink
+987,Lincoln,Town Car,$44266.02,1994,Orange
+988,BMW,325,$62072.32,2004,Violet
+989,Buick,Skylark,$25214.85,1998,Indigo
+990,GMC,Sierra 2500,$34146.34,2003,Crimson
+991,Dodge,Neon,$71335.55,1997,Indigo
+992,Lotus,Exige,$98839.34,2010,Orange
+993,Volkswagen,Cabriolet,$30211.48,2002,Blue
+994,Ford,E-350 Super Duty Van,$97279.71,2006,Crimson
+995,Dodge,Dakota,$92821.64,1992,Green
+996,GMC,2500 Club Coupe,$48682.98,1998,Khaki
+997,Subaru,BRZ,$82245.48,2013,Mauv
+998,Ford,Windstar,$41995.30,1998,Teal
+999,Ford,Ranger,$70079.75,1986,Pink
+1000,Dodge,Dakota Club,$34288.46,2001,Aquamarine
